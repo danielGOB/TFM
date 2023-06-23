@@ -1,2 +1,4 @@
-# TFM
-This repository has the code, datasets and information to understand the application of models on human pose to understand the correctness of the skeletons.
+# TFM Daniel Orbegoso - Empirical Study of Dimensionality Reduction Methodologies for Pose Comparison problems using Computer Vision
+
+This repository contains the notebook and html to understand the research done by Daniel Orbegoso. This research investigates the feasibility of incorporating dimensionality reduction techniques in pose comparison problems within the computer vision field. This research addresses the gap in existing literature by investigating the feasibility of incorporating dimensionality reduction techniques in pose comparison problems within the computer vision field and determining the key dimensions that define pose correctness. To address these limitations, this investigation employs techniques such as PCA, Random Forest, and ANOVA. A 3D Skeleton dataset containing movements performed by various subjects is utilized to understand the correctness of movements across subjects.
+ 
